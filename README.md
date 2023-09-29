@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ferhatkarasu
+- 👋 Hi, I’m Ferhat Karasu (ferhatkrs0)
 
 - 📫 How to reach me ...
 
@@ -6,7 +6,4 @@
 - https://ferhatkarasu.com/
 - ferhatkarasu100@gmail.com
 
-<!---
-ferhatkarasu/ferhatkarasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- --->
